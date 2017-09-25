@@ -14,6 +14,14 @@ it, simply add the following line to your Podfile:
 pod "CodeInputView"
 ```
 
+## Versions
+
+| Swift Version  | Pod Version |
+| ----- | ----- |
+| 3.0  | 0.1.0+  |
+| 4.0  | 0.2.0+  |
+
+
 ## Author
 
 eastsss, anatox91@yandex.ru
