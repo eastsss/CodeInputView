@@ -154,7 +154,7 @@ private extension CodeInputView {
         
         let attributedResult = NSMutableAttributedString(string: result)
         attributedResult.addAttribute(
-            NSKernAttributeName,
+            NSAttributedStringKey.kern,
             value: kerning,
             // swiftlint:disable:next legacy_constructor
             range: NSMakeRange(0, result.characters.count - 1)
