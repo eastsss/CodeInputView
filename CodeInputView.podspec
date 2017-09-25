@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'CodeInputView'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'Simple control for entering codes like the ones used to verify phone numbers'
   s.homepage         = 'https://github.com/eastsss/CodeInputView'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
